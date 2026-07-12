@@ -129,7 +129,7 @@ In TMVES terms: how do you maintain a federated digital twin across scales where
 
 It asks: When the topology of “development,” “health,” or “progress” itself approaches breach (e.g., 40%→50% fiscal robustness thresholds, relational graph sparsity in aging societies, or institutional Hessian flattening), what new event stream and new Jacobian do we instantiate? Not as top-down control, but as **federated nervous system**—redundant edges, sovereign updates, append-only provenance.
 
-This is where the PhD formalization becomes executable at scale: invariants that survive across medicine, software, music (well-tempered modulation), politics, and Bantu relational ontology.
+This is where the PhD formalization becomes executable at scale: invariants that survive across medicine, software, music ([well-tempered modulation](https://ukubona-llc.github.io/12tet/)), politics, and Bantu relational ontology.
 
 The ledger is ready. Bring the uncompressed domain. I’ll help run it through the clutch. 
 
