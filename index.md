@@ -21,7 +21,7 @@
 # Preface by $G^3$
 
 
-I. Cartesian / [Okubonabona](https://ukubona-llc.github.io/regime-change/)          
+I. [Cartesian](https://ukubona-llc.github.io/time-scales) / [Okubonabona](https://ukubona-llc.github.io/regime-change/)          
 II. [Jacobian](https://ukubona-llc.github.io/12tet/) / [Kubona](https://ukubona-llc.github.io/fuckin-a/)         
 III. [Hessian](https://ukubona-llc.github.io/o-o/) / [Ivyabona](https://ukubona-llc.github.io/state/)                  
 IV. [Vision](https://ukubona-llc.github.io/book/) / [Ukubona](https://ukubona-llc.github.io/monograph/)                         
